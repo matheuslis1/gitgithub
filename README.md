@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Sou Matheus Lisboa</h1>
-<h3 align="center">Estudante de Desenvolvimento - FrontEnd</h3>
+<h3 align="left">Estudante de Desenvolvimento - FrontEnd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuslis1&label=Profile%20views&color=0e75b6&style=flat" alt="matheuslis1" /> </p>
 
